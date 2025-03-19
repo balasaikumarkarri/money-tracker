@@ -8,7 +8,6 @@ A simple and intuitive web application to help you track your expenses and manag
 - Category-based expense tracking
 - Monthly budget tracking
 - Spending visualization with charts
-- Dark mode support
 - Data export to CSV
 - Local storage for data persistence
 
